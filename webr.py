@@ -19,7 +19,7 @@ st.write("This app is to increase your <b>productivity</b>."
          " The way to use this app is to enter your task for the day in the input box below and press the enter key."
          " If you would like to complete the task simply click the checkbox next to the task you want to complete."
          " This is a group effort so don't complete the task unless it is agreed upon. A chatbox will be added later so"
-         "we can use that to communicate. Thanks for using the app. Let's get going!",
+         " we can use that to communicate. Thanks for using the app. Let's get going!",
          unsafe_allow_html=True)
 
 # can use html code to customize web app
